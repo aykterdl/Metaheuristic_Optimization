@@ -1,0 +1,36 @@
+C:\Users\Aykut\documents\visual studio 2015\Projects\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\Cost.exe.config
+C:\Users\Aykut\documents\visual studio 2015\Projects\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\Cost.exe
+C:\Users\Aykut\documents\visual studio 2015\Projects\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\Cost.pdb
+C:\Users\Aykut\documents\visual studio 2015\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csprojResolveAssemblyReference.cache
+C:\Users\Aykut\documents\visual studio 2015\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.Form1.resources
+C:\Users\Aykut\documents\visual studio 2015\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.Properties.Resources.resources
+C:\Users\Aykut\documents\visual studio 2015\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csproj.GenerateResource.Cache
+C:\Users\Aykut\documents\visual studio 2015\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.exe
+C:\Users\Aykut\documents\visual studio 2015\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.pdb
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\MWArray.dll
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\Obj_Func.dll
+C:\Users\Aykut\Documents\Visual Studio 2015\Projects\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\MWArray.xml
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\Cost.exe.config
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\Cost.exe
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\Cost.pdb
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\MWArray.xml
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csprojAssemblyReference.cache
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.Form1.resources
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.Properties.Resources.resources
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csproj.GenerateResource.cache
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csproj.CopyComplete
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.exe
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.pdb
+C:\Users\LENOVO-PC\Documents\Visual Studio 2017\Projects\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\MWArray.dll
+D:\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\Cost.exe.config
+D:\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\Cost.exe
+D:\MetaheuristicOptimizationTool\Cost\bin\x64\Debug\Cost.pdb
+D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csprojAssemblyReference.cache
+D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.Form1.resources
+D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.Properties.Resources.resources
+D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csproj.GenerateResource.cache
+D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csproj.CoreCompileInputs.cache
+D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csproj.CopyComplete
+D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.exe
+D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.pdb

@@ -1,0 +1,10 @@
+D:\MetaheuristicOptimizationTool\Cost\obj\Debug\Cost.csprojAssemblyReference.cache
+D:\MetaheuristicOptimizationTool\Cost\obj\Debug\Cost.Form1.resources
+D:\MetaheuristicOptimizationTool\Cost\obj\Debug\Cost.Properties.Resources.resources
+D:\MetaheuristicOptimizationTool\Cost\obj\Debug\Cost.csproj.GenerateResource.cache
+D:\MetaheuristicOptimizationTool\Cost\obj\Debug\Cost.csproj.CoreCompileInputs.cache
+D:\MetaheuristicOptimizationTool\Cost\bin\Debug\Cost.exe.config
+D:\MetaheuristicOptimizationTool\Cost\bin\Debug\Cost.exe
+D:\MetaheuristicOptimizationTool\Cost\bin\Debug\Cost.pdb
+D:\MetaheuristicOptimizationTool\Cost\obj\Debug\Cost.exe
+D:\MetaheuristicOptimizationTool\Cost\obj\Debug\Cost.pdb
