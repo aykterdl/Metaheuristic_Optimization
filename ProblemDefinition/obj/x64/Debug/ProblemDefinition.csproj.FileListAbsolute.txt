@@ -26,3 +26,17 @@ D:\MetaheuristicOptimizationTool\ProblemDefinition\obj\x64\Debug\ProblemDefiniti
 D:\MetaheuristicOptimizationTool\ProblemDefinition\obj\x64\Debug\ProblemDefinition.csproj.CoreCompileInputs.cache
 D:\MetaheuristicOptimizationTool\ProblemDefinition\obj\x64\Debug\ProblemDefinition.exe
 D:\MetaheuristicOptimizationTool\ProblemDefinition\obj\x64\Debug\ProblemDefinition.pdb
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\bin\x64\Debug\ProblemDefinition.exe.config
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\bin\x64\Debug\ProblemDefinition.exe
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\bin\x64\Debug\ProblemDefinition.pdb
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\bin\x64\Debug\OpenSoftware.DgmlBuilder.dll
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\obj\x64\Debug\ProblemDefinition.csprojAssemblyReference.cache
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\obj\x64\Debug\ProblemDefinition.Form1.resources
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\obj\x64\Debug\ProblemDefinition.Properties.Resources.resources
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\obj\x64\Debug\ProblemDefinition.csproj.GenerateResource.cache
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\obj\x64\Debug\ProblemDefinition.csproj.CoreCompileInputs.cache
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\obj\x64\Debug\ProblemDefinition.csproj.CopyComplete
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\obj\x64\Debug\ProblemDefinition.exe
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\ProblemDefinition\obj\x64\Debug\ProblemDefinition.pdb

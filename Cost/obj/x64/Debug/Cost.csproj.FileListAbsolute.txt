@@ -34,3 +34,17 @@ D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csproj.CoreCompileInput
 D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.csproj.CopyComplete
 D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.exe
 D:\MetaheuristicOptimizationTool\Cost\obj\x64\Debug\Cost.pdb
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\bin\x64\Debug\Cost.exe.config
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\bin\x64\Debug\Cost.exe
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\bin\x64\Debug\Cost.pdb
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\bin\x64\Debug\OpenSoftware.DgmlBuilder.dll
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\obj\x64\Debug\Cost.csprojAssemblyReference.cache
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\obj\x64\Debug\Cost.Form1.resources
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\obj\x64\Debug\Cost.Properties.Resources.resources
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\obj\x64\Debug\Cost.csproj.GenerateResource.cache
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\obj\x64\Debug\Cost.csproj.CoreCompileInputs.cache
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\obj\x64\Debug\Cost.csproj.CopyComplete
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\obj\x64\Debug\Cost.exe
+C:\Users\erdal\Documents\GitHub\Metaheuristic_Optimization\Cost\obj\x64\Debug\Cost.pdb
